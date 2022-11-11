@@ -1,6 +1,7 @@
 Hello folks,
 
-  Here I have tried to code the interface and services provided by the ATM system as a curiosity.
+  Here I have tried to code the interface and services provided by the ATM system as a 
+  curiosity in Object Oriented Programming in C++.
   This is just a mini project that includes the 
   1) User Authentication using Account No. and stored PIN
   2) After Successful Authentication it offers various Services 
